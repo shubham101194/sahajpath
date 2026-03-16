@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Core Sahaj Marg concepts with simple explanations and modern analogies"
+  },
+  "concepts": [
+    {
+      "id": "pranahuti",
+      "name_en": "Pranahuti (Yogic Transmission)",
+      "name_hi": "प्राणाहुति (योगिक संचार)",
+      "simple_explanation_en": "The direct transmission of divine energy from a capable teacher into the seeker's heart during meditation. It's what makes Sahaj Marg unique — instead of relying only on your own effort, you receive a spiritual 'boost' that accelerates inner transformation.",
+      "simple_explanation_hi": "ध्यान के दौरान एक सक्षम शिक्षक से साधक के हृदय में दिव्य ऊर्जा का सीधा संचार। यही सहज मार्ग को विशिष्ट बनाता है — केवल अपने प्रयास पर निर्भर रहने के बजाय, आध्यात्मिक परिवर्तन को तेज़ करने वाला 'बल' प्राप्त होता है।",
+      "analogy_en": "Imagine trying to start a fire by rubbing sticks together. It works, but it's slow and exhausting. Now imagine someone who already has a flame simply lights your candle. That's pranahuti — the flame is shared, not created from scratch.",
+      "analogy_hi": "कल्पना करें लकड़ी रगड़कर आग जला रहे हैं। काम करता है, पर धीमा और थकाऊ। अब कल्पना करें जिसके पास लौ है वह आपकी मोमबत्ती जला दे। यही प्राणाहुति है।",
+      "related_concepts": ["guru", "meditation", "spiritual_training"],
+      "source_references": [
+        { "book": "efficacy_of_raja_yoga", "chapter": "Spiritual Training" },
+        { "book": "reality_at_dawn", "chapter": "Ways and Means" }
+      ]
+    },
+    {
+      "id": "cleaning",
+      "name_en": "Cleaning (Removing Impressions)",
+      "name_hi": "सफ़ाई (संस्कारों को हटाना)",
+      "simple_explanation_en": "The practice of removing accumulated mental and emotional impressions (samskaras) that cloud the soul. In Sahaj Marg, this is done through the evening cleaning practice — imagining heaviness and impurities flowing out from behind you and dissolving.",
+      "simple_explanation_hi": "जमे हुए मानसिक और भावनात्मिक छापों (संस्कारों) को हटाने का अभ्यास। सहज मार्ग में यह शाम के सफ़ाई अभ्यास से किया जाता है — भारीपन और अशुद्धियों को पीछे से बाहर बहकर विलीन होते कल्पना करना।",
+      "analogy_en": "Think of your soul as a mirror that's been gathering dust for years. Every reaction, grudge, and attachment adds a layer. Cleaning is wiping that mirror daily so it can reflect light clearly again. Skip it, and the dust builds up until you can't see clearly at all.",
+      "analogy_hi": "आत्मा को एक दर्पण समझें जिस पर वर्षों से धूल जम रही है। हर प्रतिक्रिया, शिकायत, आसक्ति एक परत जोड़ती है। सफ़ाई उस दर्पण को रोज़ पोंछना है ताकि वह फिर स्पष्ट प्रकाश प्रतिबिंबित करे।",
+      "related_concepts": ["samskaras", "daily_rhythm", "repentance"],
+      "source_references": [
+        { "book": "efficacy_of_raja_yoga", "chapter": "Cleaning" },
+        { "book": "ten_maxims_commentary", "chapter": "Maxim 10" }
+      ]
+    },
+    {
+      "id": "samskaras",
+      "name_en": "Samskaras (Impressions)",
+      "name_hi": "संस्कार (छापे)",
+      "simple_explanation_en": "The accumulated traces left on the soul by every thought, action, and experience. Like grooves worn into a record, samskaras shape our tendencies, habits, and reactions — often without us realizing it. Sahaj Marg practice works to remove these grooves so we can respond freshly to life.",
+      "simple_explanation_hi": "हर विचार, कर्म और अनुभव द्वारा आत्मा पर छोड़े गए संचित निशान। रिकॉर्ड पर बनी लकीरों की तरह, संस्कार हमारी प्रवृत्तियों, आदतों और प्रतिक्रियाओं को आकार देते हैं — अक्सर बिना हमें पता चले।",
+      "analogy_en": "Imagine walking the same path through a field every day. Over time, you wear a groove into the grass, and it becomes harder to walk any other way. Samskaras are like those grooves in the mind — well-worn patterns that keep pulling you in the same direction, even when you want to change.",
+      "analogy_hi": "कल्पना करें रोज़ मैदान में एक ही रास्ते से चलना। समय के साथ, घास में लकीर बन जाती है, और दूसरे रास्ते से चलना कठिन होता है। संस्कार मन में वैसी ही लकीरें हैं — जो उसी दिशा में खींचती रहती हैं।",
+      "related_concepts": ["cleaning", "meditation", "original_state"],
+      "source_references": [
+        { "book": "reality_at_dawn", "chapter": "Ways and Means" }
+      ]
+    },
+    {
+      "id": "constant_remembrance",
+      "name_en": "Constant Remembrance",
+      "name_hi": "निरंतर स्मरण",
+      "simple_explanation_en": "Maintaining a gentle, continuous awareness of the divine throughout the day — not just during formal meditation. It's the background hum of spiritual consciousness that colors everything you do, like a song playing softly in the back of your mind.",
+      "simple_explanation_hi": "दिन भर परमात्मा की कोमल, निरंतर जागरूकता बनाए रखना — केवल औपचारिक ध्यान के दौरान नहीं। यह आध्यात्मिक चेतना की पृष्ठभूमि गूंज है जो आपके हर कार्य को रंगती है।",
+      "analogy_en": "Think of how a mother is always aware of her child, even while cooking, working, or talking to others. She doesn't force this awareness — it's natural, effortless, always there. That's the quality of constant remembrance Babuji describes.",
+      "analogy_hi": "सोचिए एक माँ हमेशा अपने बच्चे के प्रति जागरूक कैसे रहती है, खाना बनाते, काम करते, बात करते हुए भी। वह जागरूकता जबरदस्ती नहीं — स्वाभाविक, सहज, सदा विद्यमान। यही निरंतर स्मरण है।",
+      "related_concepts": ["meditation", "goal_of_life", "prayer"],
+      "source_references": [
+        { "book": "reality_at_dawn", "chapter": "Constant Remembrance" }
+      ]
+    },
+    {
+      "id": "meditation",
+      "name_en": "Meditation (Sahaj Marg Style)",
+      "name_hi": "ध्यान (सहज मार्ग शैली)",
+      "simple_explanation_en": "In Sahaj Marg, meditation is remarkably simple: sit comfortably, close your eyes, and gently suppose that divine light is present in your heart. Don't visualize it forcefully — just hold the thought lightly, like a suggestion. The teacher's transmission (pranahuti) does the rest.",
+      "simple_explanation_hi": "सहज मार्ग में ध्यान अत्यंत सरल है: आराम से बैठें, आँखें बंद करें, और कोमलता से मान लें कि हृदय में दिव्य प्रकाश है। जबरदस्ती कल्पना न करें — बस हल्के से विचार रखें। शिक्षक का संचार (प्राणाहुति) बाकी करता है।",
+      "analogy_en": "Most meditation systems are like rowing a boat upstream — all your effort, against the current. Sahaj Marg meditation is like sitting in a boat on a river that's already flowing toward the ocean. You just need to sit still and not fight the current. The pranahuti is the river.",
+      "analogy_hi": "अधिकांश ध्यान प्रणालियाँ धारा के विपरीत नाव चलाने जैसी हैं। सहज मार्ग ध्यान पहले से समुद्र की ओर बहती नदी में नाव में बैठने जैसा है। बस शांत बैठना है, धारा से न लड़ना। प्राणाहुति वह नदी है।",
+      "related_concepts": ["pranahuti", "heart", "divine_light"],
+      "source_references": [
+        { "book": "reality_at_dawn", "chapter": "Ways and Means" },
+        { "book": "efficacy_of_raja_yoga", "chapter": "Meditation" }
+      ]
+    },
+    {
+      "id": "guru",
+      "name_en": "Guru (Spiritual Guide)",
+      "name_hi": "गुरु (आध्यात्मिक मार्गदर्शक)",
+      "simple_explanation_en": "In Sahaj Marg, the guru isn't a distant deity or authority figure — they're a fellow traveler who has gone further on the path and can transmit the divine force to accelerate your journey. Babuji's lineage: Lalaji (his guru) → Babuji (founder) → Chariji → Daaji (current guide).",
+      "simple_explanation_hi": "सहज मार्ग में गुरु कोई दूरस्थ देवता या सत्ता नहीं — वे सहयात्री हैं जो मार्ग पर आगे गए हैं और दिव्य शक्ति संचारित कर सकते हैं। बाबूजी की वंश परंपरा: लालाजी → बाबूजी → चरिजी → दाजी।",
+      "analogy_en": "Think of a mountain guide. They've climbed the peak before, they know the safe paths, and they can carry some of your load. You still have to walk — but you don't have to figure out the route alone, and their experience keeps you from dangerous detours.",
+      "analogy_hi": "पर्वत गाइड की तरह सोचें। उन्होंने पहले चोटी चढ़ी है, सुरक्षित रास्ते जानते हैं, और कुछ बोझ उठा सकते हैं। चलना तो आपको है — पर रास्ता अकेले नहीं खोजना, और उनका अनुभव खतरनाक भटकाव से बचाता है।",
+      "related_concepts": ["pranahuti", "lineage", "spiritual_training"],
+      "source_references": [
+        { "book": "reality_at_dawn", "chapter": "The Guru" }
+      ]
+    },
+    {
+      "id": "ten_maxims",
+      "name_en": "Ten Maxims",
+      "name_hi": "दस सिद्धांत",
+      "simple_explanation_en": "Ten guidelines for daily living given by Babuji, structured around the natural cycle of a day — from dawn (Maxim 1) to bedtime (Maxim 10). They cover morning practice, prayer, goal-setting, simplicity, truthfulness, brotherhood, forgiveness, gratitude, conduct, and evening cleaning. Not rigid rules, but descriptions of what a naturally evolved person becomes.",
+      "simple_explanation_hi": "बाबूजी द्वारा दिए गए दैनिक जीवन के दस दिशानिर्देश, दिन के स्वाभाविक चक्र के अनुसार — भोर (सिद्धांत 1) से सोने तक (सिद्धांत 10)। कठोर नियम नहीं, बल्कि स्वाभाविक रूप से विकसित व्यक्ति का वर्णन।",
+      "analogy_en": "Think of the Ten Maxims as a daily operating system — like how your phone boots up, runs apps, and shuts down cleanly each night. Morning practice boots your spiritual system. The daytime maxims are the apps that keep you running well. Evening cleaning shuts everything down properly so tomorrow starts fresh.",
+      "analogy_hi": "दस सिद्धांतों को दैनिक संचालन प्रणाली समझें — जैसे फ़ोन सुबह चालू होता है, ऐप चलाता है, और रात को ठीक से बंद होता है। सुबह का अभ्यास आध्यात्मिक प्रणाली चालू करता है। शाम की सफ़ाई ठीक से बंद करती है।",
+      "related_concepts": ["daily_rhythm", "morning_practice", "cleaning"],
+      "source_references": [
+        { "book": "ten_maxims_commentary", "chapter": "Introduction" }
+      ]
+    },
+    {
+      "id": "goal_of_life",
+      "name_en": "Goal of Life",
+      "name_hi": "जीवन का लक्ष्य",
+      "simple_explanation_en": "In Sahaj Marg, the goal of human life is complete oneness with God — returning to the original, pure state from which everything emerged. Babuji insists this is not an unattainable ideal but the natural destiny of every soul, achievable in this lifetime through proper practice and transmission.",
+      "simple_explanation_hi": "सहज मार्ग में मानव जीवन का लक्ष्य ईश्वर के साथ पूर्ण एकता है — उस मूल, शुद्ध अवस्था में लौटना जहाँ से सब कुछ उत्पन्न हुआ। बाबूजी कहते हैं यह अप्राप्य आदर्श नहीं, हर आत्मा की स्वाभाविक नियति है।",
+      "analogy_en": "A river doesn't struggle to reach the ocean — it simply flows. It might wind, slow down, hit obstacles, even seem to go backwards at times. But its nature is to flow toward the sea. Your soul is like that river. The goal isn't something you achieve through strain. It's where you're already heading.",
+      "analogy_hi": "नदी समुद्र तक पहुँचने के लिए संघर्ष नहीं करती — बस बहती है। घूमती है, धीमी होती है, बाधाएँ आती हैं। लेकिन स्वभाव समुद्र की ओर बहना है। आपकी आत्मा वैसी ही नदी है। लक्ष्य तनाव से पाने की चीज़ नहीं — आप पहले से वहीं जा रहे हैं।",
+      "related_concepts": ["oneness", "original_state", "meditation"],
+      "source_references": [
+        { "book": "reality_at_dawn", "chapter": "The Goal of Life" }
+      ]
+    },
+    {
+      "id": "sahaj_marg",
+      "name_en": "Sahaj Marg (The Natural Path)",
+      "name_hi": "सहज मार्ग (प्राकृतिक मार्ग)",
+      "simple_explanation_en": "Literally 'the natural path' — a system of Raja Yoga simplified by Babuji for modern householders. Unlike traditional yoga that requires renunciation and years of austerity, Sahaj Marg is designed for people with families and jobs. The three pillars: morning meditation, evening cleaning, and constant remembrance throughout the day.",
+      "simple_explanation_hi": "शाब्दिक अर्थ 'प्राकृतिक मार्ग' — बाबूजी द्वारा आधुनिक गृहस्थों के लिए सरलीकृत राज योग प्रणाली। पारंपरिक योग से भिन्न जो त्याग और वर्षों की तपस्या माँगता है, सहज मार्ग परिवार और नौकरी वालों के लिए बना है। तीन स्तंभ: सुबह ध्यान, शाम सफ़ाई, दिन भर निरंतर स्मरण।",
+      "analogy_en": "Traditional spiritual paths are like climbing a mountain with heavy gear in harsh weather. Sahaj Marg is like someone building a cable car that takes you to the same peak, while you continue living your normal life at the base. You ride up each morning, return to your daily life, and gradually the peak becomes your natural home.",
+      "analogy_hi": "पारंपरिक आध्यात्मिक मार्ग कठोर मौसम में भारी सामान से पहाड़ चढ़ने जैसे हैं। सहज मार्ग ऐसा है जैसे किसी ने उसी चोटी तक केबल कार बना दी, जबकि आप सामान्य जीवन जीते रहें।",
+      "related_concepts": ["pranahuti", "meditation", "cleaning", "ten_maxims"],
+      "source_references": [
+        { "book": "sahaj_marg_philosophy", "chapter": "Introduction" }
+      ]
+    },
+    {
+      "id": "heart",
+      "name_en": "Heart (Spiritual Center)",
+      "name_hi": "हृदय (आध्यात्मिक केंद्र)",
+      "simple_explanation_en": "In Sahaj Marg, the heart is the primary seat of meditation — not the physical organ, but the spiritual center located slightly to the left of center in the chest. Babuji chose the heart over the traditional 'third eye' or crown chakra because the heart is the seat of feeling, love, and the deepest human impulses.",
+      "simple_explanation_hi": "सहज मार्ग में हृदय ध्यान का प्राथमिक स्थान है — भौतिक अंग नहीं, बल्कि छाती में केंद्र से थोड़ा बाईं ओर स्थित आध्यात्मिक केंद्र। बाबूजी ने हृदय को चुना क्योंकि यह भावना, प्रेम और गहनतम मानवीय प्रेरणाओं का स्थान है।",
+      "analogy_en": "Your mind is like a busy airport — planes (thoughts) constantly landing and taking off, announcements blaring, crowds rushing. Your heart is like a quiet garden behind the airport that most people don't know exists. Sahaj Marg meditation simply asks you to sit in that garden instead of the terminal.",
+      "analogy_hi": "मन व्यस्त हवाई अड्डे जैसा है — विचार रूपी विमान लगातार उतरते-उड़ते, घोषणाएँ, भीड़। हृदय उस हवाई अड्डे के पीछे शांत बगीचे जैसा है जिसके बारे में अधिकांश नहीं जानते। सहज मार्ग ध्यान बस उस बगीचे में बैठने को कहता है।",
+      "related_concepts": ["meditation", "divine_light", "pranahuti"],
+      "source_references": [
+        { "book": "reality_at_dawn", "chapter": "Ways and Means" }
+      ]
+    }
+  ]
+}
