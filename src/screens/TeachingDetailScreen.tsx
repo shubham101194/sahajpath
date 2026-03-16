@@ -29,10 +29,18 @@ export const TeachingDetailScreen: React.FC = () => {
 
   return (
     <div className="screen page-enter">
-      <button className="back-btn" onClick={() => navigate(-1)}>
-        <IconChevronLeft color="var(--warm-brown)" />
-        <span>{language === 'hi' ? `दिन ${teaching.day}` : `Day ${teaching.day}`}</span>
-      </button>
+      <div className="flex-between">
+        <button className="back-btn" onClick={() => navigate(-1)}>
+          <IconChevronLeft color="var(--warm-brown)" />
+          <span>{language === 'hi' ? `दिन ${teaching.day}` : `Day ${teaching.day}`}</span>
+        </button>
+        <button
+          className="lang-switch-btn"
+          onClick={() => setLanguage(language === 'en' ? 'hi' : 'en')}
+        >
+          {language === 'en' ? 'हिन्दी' : 'English'}
+        </button>
+      </div>
 
       <div style={{ marginTop: 12 }}>
         <TeachingCard
@@ -42,11 +50,6 @@ export const TeachingDetailScreen: React.FC = () => {
           onToggleFavorite={() => toggleFavorite(teaching.id)}
           onShare={handleShare}
         />
-      </div>
-
-      <div className="lang-toggle" style={{ marginTop: 16 }}>
-        <button className={language === 'en' ? 'active' : ''} onClick={() => setLanguage('en')}>English</button>
-        <button className={language === 'hi' ? 'active' : ''} onClick={() => setLanguage('hi')}>हिन्दी</button>
       </div>
     </div>
   );
