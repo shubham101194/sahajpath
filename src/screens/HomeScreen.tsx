@@ -41,6 +41,12 @@ export const HomeScreen: React.FC = () => {
           <h1 className="app-name">SahajPath</h1>
           <p className="app-name-hi">सहज पथ</p>
         </div>
+        <button
+          className="lang-switch-btn"
+          onClick={() => setLanguage(language === 'en' ? 'hi' : 'en')}
+        >
+          {language === 'en' ? 'हिन्दी' : 'English'}
+        </button>
       </div>
 
       {/* Day counter — tappable */}
@@ -65,16 +71,6 @@ export const HomeScreen: React.FC = () => {
         onToggleFavorite={() => toggleFavorite(teaching.id)}
         onShare={handleShare}
       />
-
-      {/* Language Toggle */}
-      <div className="lang-toggle" style={{ marginTop: 16 }}>
-        <button className={language === 'en' ? 'active' : ''} onClick={() => setLanguage('en')}>
-          English
-        </button>
-        <button className={language === 'hi' ? 'active' : ''} onClick={() => setLanguage('hi')}>
-          हिन्दी
-        </button>
-      </div>
 
       {/* Day Picker Modal */}
       {showDayPicker && <DayPicker onClose={() => setShowDayPicker(false)} />}
