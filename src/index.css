@@ -338,6 +338,45 @@ a {
   background: var(--favorite-rose-light);
 }
 
+/* ─── Day Navigation (Prev/Next) ──────────────── */
+
+.day-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: var(--space-xl);
+  gap: var(--space-md);
+}
+
+.day-nav-btn {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  padding: 10px 16px;
+  border-radius: 12px;
+  border: 0.5px solid var(--border);
+  background: var(--warm-white);
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--saffron);
+  transition: background-color 0.15s, transform 0.1s;
+}
+
+.day-nav-btn:active:not(:disabled) {
+  background: var(--sand);
+  transform: scale(0.97);
+}
+
+.day-nav-btn-disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.day-nav-btn-primary {
+  background: var(--sand-light);
+  border-color: var(--sand-light);
+}
+
 /* ─── Language Toggle ─────────────────────────── */
 
 .lang-toggle {
