@@ -1,0 +1,613 @@
+{
+  "meta": {
+    "version": "1.0",
+    "total_teachings": 28,
+    "content_block": "ten_maxims_deep_dive",
+    "weeks": "1-4",
+    "schema_version": "1.0",
+    "last_updated": "2026-03-16",
+    "notes": "Month 1 MVP — Ten Maxims deep dive. Days 1-2 are introductory (goal of life, what is Sahaj Marg). Days 3-28 cover all 10 maxims with 2-3 teachings each. Teachings alternate between Babuji's original words, simplified commentary, and practical application."
+  },
+  "teachings": [
+    {
+      "id": "day-001",
+      "day": 1,
+      "text_en": "The goal of human life is to attain a state of complete oneness with God, which is the very real essence of our being. It is not an unattainable ideal but the natural destiny of every soul.",
+      "text_hi": "मानव जीवन का लक्ष्य ईश्वर के साथ पूर्ण एकता की अवस्था प्राप्त करना है, जो हमारे अस्तित्व का वास्तविक सार है। यह कोई अप्राप्य आदर्श नहीं, बल्कि प्रत्येक आत्मा की स्वाभाविक नियति है।",
+      "source": {
+        "book": "reality_at_dawn",
+        "chapter": "The Goal of Life"
+      },
+      "simple_explanation_en": "Babuji begins with the biggest question: Why are we here? His answer is beautifully simple — we are here to return to where we came from. Like a river flowing back to the ocean, every soul is naturally moving toward the divine. This isn't something only saints achieve. It's what we're all made for.",
+      "simple_explanation_hi": "बाबूजी सबसे बड़े प्रश्न से शुरू करते हैं: हम यहाँ क्यों हैं? उनका उत्तर सुंदर रूप से सरल है — हम वहाँ लौटने के लिए हैं जहाँ से हम आए थे। जैसे नदी समुद्र की ओर बहती है, वैसे ही हर आत्मा स्वाभाविक रूप से परमात्मा की ओर बढ़ रही है। यह केवल संतों की उपलब्धि नहीं — यह हम सबकी नियति है।",
+      "reflection_prompt_en": "Today, just sit with this thought: The highest spiritual state is not reserved for monks or saints — it is your birthright. How does that change how you see your ordinary day?",
+      "reflection_prompt_hi": "आज बस इस विचार के साथ बैठें: सर्वोच्च आध्यात्मिक अवस्था केवल साधुओं या संतों के लिए आरक्षित नहीं है — यह आपका जन्मसिद्ध अधिकार है। यह आपके साधारण दिन को कैसे बदलता है?",
+      "related_maxim": 3,
+      "related_concepts": ["goal_of_life", "oneness"],
+      "related_teachings": ["day-003", "day-008"],
+      "theme": "purpose",
+      "difficulty": "newcomer",
+      "week_number": 1,
+      "content_block": "introduction"
+    },
+    {
+      "id": "day-002",
+      "day": 2,
+      "text_en": "The method of spiritual training in Sahaj Marg is very simple. The teacher who is capable of transmitting will make the abhyasi sit in meditation and transmit into him the divine force or Pranahuti. This brings about the desired result.",
+      "text_hi": "सहज मार्ग में आध्यात्मिक प्रशिक्षण की विधि बहुत सरल है। शिक्षक जो संचार करने में सक्षम है, अभ्यासी को ध्यान में बिठाएगा और उसमें दिव्य शक्ति या प्राणाहुति संचारित करेगा। इससे वांछित परिणाम प्राप्त होता है।",
+      "source": {
+        "book": "efficacy_of_raja_yoga",
+        "chapter": "Spiritual Training"
+      },
+      "simple_explanation_en": "Before we dive into the Ten Maxims — the daily guidelines for living — it helps to understand what makes Sahaj Marg unique. In most spiritual traditions, progress depends entirely on your own effort. Babuji says there's a simpler way: a capable teacher can directly transmit spiritual energy into your heart. Think of it like this — instead of trying to light a fire by rubbing sticks together, someone who already has a flame simply lights your candle. This is Pranahuti, and it's the engine behind the entire system.",
+      "simple_explanation_hi": "दस सिद्धांतों में जाने से पहले — जो दैनिक जीवन के दिशानिर्देश हैं — यह समझना उपयोगी है कि सहज मार्ग को क्या विशिष्ट बनाता है। अधिकांश आध्यात्मिक परंपराओं में, प्रगति पूरी तरह आपके प्रयास पर निर्भर करती है। बाबूजी कहते हैं एक सरल मार्ग है: एक सक्षम शिक्षक सीधे आपके हृदय में आध्यात्मिक ऊर्जा संचारित कर सकता है। इसे ऐसे समझें — लकड़ी रगड़कर आग जलाने के बजाय, जिसके पास पहले से लौ है वह बस आपकी मोमबत्ती जला देता है। यही प्राणाहुति है, और यह पूरी प्रणाली का मूल है।",
+      "reflection_prompt_en": "Have you ever been in the presence of someone who made you feel calmer, lighter, or more centered — without saying a word? That feeling is a tiny glimpse of what transmission is about.",
+      "reflection_prompt_hi": "क्या आप कभी किसी ऐसे व्यक्ति की उपस्थिति में रहे हैं जिसने आपको बिना कुछ कहे शांत, हल्का या अधिक केंद्रित महसूस कराया? वह अनुभव संचार की एक छोटी सी झलक है।",
+      "related_maxim": null,
+      "related_concepts": ["pranahuti", "transmission", "guru", "spiritual_training"],
+      "related_teachings": ["day-001"],
+      "theme": "pranahuti",
+      "difficulty": "newcomer",
+      "week_number": 1,
+      "content_block": "introduction"
+    },
+
+    {
+      "id": "day-003",
+      "day": 3,
+      "text_en": "Rise before dawn. Offer your Prayer and Puja at a fixed hour preferably before sunrise, sitting in one and the same pose. Have a separate place and seat for worship.",
+      "text_hi": "प्रातःकाल सूर्योदय से पहले उठो। एक निश्चित समय पर, एक ही आसन में बैठकर, सूर्योदय से पहले प्रार्थना और पूजा करो। पूजा के लिए अलग स्थान और आसन रखो।",
+      "source": {
+        "book": "ten_maxims_commentary",
+        "chapter": "Maxim 1"
+      },
+      "simple_explanation_en": "The first maxim is about how you start your day. Babuji isn't being rigid about rules — he's pointing to something deeper. The hour before sunrise is naturally still and quiet. Your mind hasn't yet filled with the day's noise. By sitting in the same place at the same time, you create a habit that becomes effortless over time. It's like having a daily appointment with the deepest part of yourself.",
+      "simple_explanation_hi": "पहला सिद्धांत इस बारे में है कि आप अपना दिन कैसे शुरू करते हैं। बाबूजी नियमों के बारे में कठोर नहीं हैं — वे कुछ गहरे की ओर इशारा कर रहे हैं। सूर्योदय से पहले का समय स्वाभाविक रूप से शांत होता है। आपका मन अभी दिन के शोर से नहीं भरा। एक ही स्थान पर एक ही समय बैठकर, आप एक ऐसी आदत बनाते हैं जो समय के साथ सहज हो जाती है।",
+      "reflection_prompt_en": "Tomorrow morning, try waking just 10 minutes earlier than usual. Don't meditate, don't pray — just sit quietly and notice the stillness before the world wakes up. What does that silence feel like?",
+      "reflection_prompt_hi": "कल सुबह, सामान्य से केवल 10 मिनट पहले उठने का प्रयास करें। ध्यान न करें, प्रार्थना न करें — बस शांति से बैठें और दुनिया के जागने से पहले की स्थिरता को महसूस करें।",
+      "related_maxim": 1,
+      "related_concepts": ["morning_practice", "puja", "daily_rhythm"],
+      "related_teachings": ["day-004", "day-027"],
+      "theme": "daily_practice",
+      "difficulty": "newcomer",
+      "week_number": 1,
+      "content_block": "maxim_1"
+    },
+    {
+      "id": "day-004",
+      "day": 4,
+      "text_en": "The time most suited for meditation and prayer is the time when the early morning breeze blows, which is helpful in setting our mind and body for meditation. It helps to regulate our inner tendencies.",
+      "text_hi": "ध्यान और प्रार्थना के लिए सबसे उपयुक्त समय वह है जब प्रातःकालीन हवा बहती है, जो हमारे मन और शरीर को ध्यान के लिए तैयार करने में सहायक है। यह हमारी आंतरिक प्रवृत्तियों को नियमित करने में मदद करती है।",
+      "source": {
+        "book": "ten_maxims_commentary",
+        "chapter": "Maxim 1"
+      },
+      "simple_explanation_en": "Babuji is being quite scientific here. The pre-dawn hours have a quality that even modern science recognizes — the body's cortisol cycle is at its lowest, the air is cool and still, and the world's electromagnetic noise is at its quietest. He's not asking you to wake up early as a test of willpower. He's saying: there's a natural window when everything in nature cooperates with your inner work. Why not use it?",
+      "simple_explanation_hi": "बाबूजी यहाँ काफी वैज्ञानिक हैं। भोर से पहले के घंटों में एक गुण है जिसे आधुनिक विज्ञान भी मानता है — शरीर का कोर्टिसोल चक्र अपने न्यूनतम पर है, हवा शीतल और स्थिर है। वे आपसे इच्छाशक्ति की परीक्षा के रूप में जल्दी उठने को नहीं कह रहे। वे कह रहे हैं: एक प्राकृतिक समय है जब प्रकृति की हर चीज़ आपके आंतरिक कार्य में सहयोग करती है।",
+      "reflection_prompt_en": "If you've been waking up early, notice how the quality of early morning feels different from late evening. If you haven't, just notice the moment you first step outside tomorrow — what does the air feel like?",
+      "reflection_prompt_hi": "यदि आप जल्दी उठ रहे हैं, तो ध्यान दें कि सुबह का अनुभव देर शाम से कैसे अलग है। यदि नहीं, तो कल जब पहली बार बाहर कदम रखें — हवा कैसी लगती है?",
+      "related_maxim": 1,
+      "related_concepts": ["morning_practice", "nature", "daily_rhythm"],
+      "related_teachings": ["day-003"],
+      "theme": "daily_practice",
+      "difficulty": "newcomer",
+      "week_number": 1,
+      "content_block": "maxim_1"
+    },
+
+    {
+      "id": "day-005",
+      "day": 5,
+      "text_en": "Begin your Puja with a prayer for spiritual elevation, with a heart full of love and devotion.",
+      "text_hi": "आध्यात्मिक उन्नति के लिए प्रार्थना के साथ अपनी पूजा आरंभ करो, हृदय प्रेम और भक्ति से भरा हो।",
+      "source": {
+        "book": "ten_maxims_commentary",
+        "chapter": "Maxim 2"
+      },
+      "simple_explanation_en": "The second maxim is about the quality of your prayer, not the quantity. Babuji says: before you sit to meditate, orient yourself. It's like setting a compass before a journey. A prayer for spiritual elevation means you're telling your deepest self: this is what I'm here for. Not wealth, not relief from problems, not even peace of mind — but genuine spiritual growth. And the key ingredient? Love. Not duty, not obligation — love.",
+      "simple_explanation_hi": "दूसरा सिद्धांत आपकी प्रार्थना की गुणवत्ता के बारे में है, मात्रा के बारे में नहीं। बाबूजी कहते हैं: ध्यान में बैठने से पहले, अपनी दिशा तय करो। यह यात्रा से पहले दिशासूचक यंत्र सेट करने जैसा है। आध्यात्मिक उन्नति की प्रार्थना का मतलब है कि आप अपने गहनतम स्वयं को बता रहे हैं: मैं इसके लिए हूँ। धन नहीं, समस्याओं से राहत नहीं — बल्कि वास्तविक आध्यात्मिक विकास। और मुख्य तत्व? प्रेम।",
+      "reflection_prompt_en": "Before any activity today — a meeting, cooking, even a commute — pause for three seconds and silently set an intention. Notice how that tiny pause changes the quality of what follows.",
+      "reflection_prompt_hi": "आज किसी भी गतिविधि से पहले — बैठक, खाना बनाना, यात्रा भी — तीन सेकंड रुकें और चुपचाप एक संकल्प लें। देखें कि वह छोटा सा विराम आगे की गुणवत्ता को कैसे बदलता है।",
+      "related_maxim": 2,
+      "related_concepts": ["prayer", "devotion", "intention"],
+      "related_teachings": ["day-006", "day-003"],
+      "theme": "prayer",
+      "difficulty": "newcomer",
+      "week_number": 1,
+      "content_block": "maxim_2"
+    },
+    {
+      "id": "day-006",
+      "day": 6,
+      "text_en": "Prayer is the most natural way to establish our relationship with the Almighty. It is the recognition of divine greatness and it expresses our dependence upon Him.",
+      "text_hi": "प्रार्थना सर्वशक्तिमान के साथ अपने संबंध को स्थापित करने का सबसे स्वाभाविक तरीका है। यह दिव्य महानता की पहचान है और यह उस पर हमारी निर्भरता को व्यक्त करती है।",
+      "source": {
+        "book": "reality_at_dawn",
+        "chapter": "Prayer"
+      },
+      "simple_explanation_en": "Babuji reframes prayer completely. It's not begging, not bargaining, not reciting words from memory. It's the most natural thing a human can do — like a child turning to a parent. He says prayer is simply recognizing two truths: that something infinitely greater than us exists, and that we are connected to it. When you truly feel both of those things at the same time, that feeling is prayer.",
+      "simple_explanation_hi": "बाबूजी प्रार्थना को पूरी तरह नए रूप में प्रस्तुत करते हैं। यह भीख माँगना नहीं, सौदेबाज़ी नहीं, याद से शब्द दोहराना नहीं। यह सबसे स्वाभाविक बात है — जैसे बच्चा माता-पिता की ओर मुड़ता है। वे कहते हैं प्रार्थना बस दो सत्यों को पहचानना है: कि हमसे अनंत गुना बड़ा कुछ है, और हम उससे जुड़े हैं। जब आप दोनों को एक साथ महसूस करते हैं, वही प्रार्थना है।",
+      "reflection_prompt_en": "Forget formal prayer for a moment. Think of a time you felt genuine awe — a sunset, holding a newborn, standing before mountains. That feeling of smallness mixed with wonder — Babuji would call that a prayer.",
+      "reflection_prompt_hi": "औपचारिक प्रार्थना को एक क्षण भूल जाएँ। एक ऐसे समय को याद करें जब आपने सच्चा विस्मय महसूस किया — सूर्यास्त, नवजात को गोद में लेना, पहाड़ों के सामने खड़ा होना। लघुता और आश्चर्य का वह मिश्रित अनुभव — बाबूजी इसे प्रार्थना कहेंगे।",
+      "related_maxim": 2,
+      "related_concepts": ["prayer", "devotion", "surrender"],
+      "related_teachings": ["day-005"],
+      "theme": "prayer",
+      "difficulty": "newcomer",
+      "week_number": 1,
+      "content_block": "maxim_2"
+    },
+    {
+      "id": "day-007",
+      "day": 7,
+      "text_en": "Prayer must be offered in the most simple and natural way without any artificiality. It should be from the core of the heart.",
+      "text_hi": "प्रार्थना सबसे सरल और स्वाभाविक तरीके से बिना किसी कृत्रिमता के करनी चाहिए। यह हृदय की गहराई से होनी चाहिए।",
+      "source": {
+        "book": "ten_maxims_commentary",
+        "chapter": "Maxim 2"
+      },
+      "simple_explanation_en": "Babuji keeps returning to the same word: natural. No special voice, no performance, no elaborate ritual. Just you and the divine, as you are. He's removing all the barriers people put between themselves and God — the feeling that you need to be worthy enough, clean enough, spiritual enough to pray. You don't. Come as you are. That honesty is the prayer.",
+      "simple_explanation_hi": "बाबूजी बार-बार एक ही शब्द पर लौटते हैं: स्वाभाविक। कोई विशेष आवाज़ नहीं, कोई प्रदर्शन नहीं, कोई विस्तृत अनुष्ठान नहीं। बस आप और परमात्मा, जैसे आप हैं। वे उन सभी बाधाओं को हटा रहे हैं जो लोग खुद और ईश्वर के बीच रखते हैं — कि प्रार्थना के लिए पर्याप्त योग्य, पवित्र, आध्यात्मिक होना चाहिए। नहीं चाहिए। जैसे हो वैसे आओ। वही ईमानदारी प्रार्थना है।",
+      "reflection_prompt_en": "Today, try a one-sentence prayer in your own words — not from any book. Just one honest line from your heart. It might feel awkward. That's okay. Awkward honesty beats polished performance every time.",
+      "reflection_prompt_hi": "आज, अपने शब्दों में एक वाक्य की प्रार्थना करें — किसी किताब से नहीं। बस हृदय से एक ईमानदार पंक्ति। शायद अजीब लगे। कोई बात नहीं। ईमानदार अजीबपन हर बार चमकदार प्रदर्शन से बेहतर है।",
+      "related_maxim": 2,
+      "related_concepts": ["prayer", "simplicity", "heart"],
+      "related_teachings": ["day-005", "day-006"],
+      "theme": "prayer",
+      "difficulty": "newcomer",
+      "week_number": 1,
+      "content_block": "maxim_2"
+    },
+
+    {
+      "id": "day-008",
+      "day": 8,
+      "text_en": "Fix your goal which should be complete oneness with God. Rest not till the ideal is achieved.",
+      "text_hi": "अपना लक्ष्य निर्धारित करो जो ईश्वर के साथ पूर्ण एकता होनी चाहिए। आदर्श प्राप्त होने तक विश्राम मत करो।",
+      "source": {
+        "book": "ten_maxims_commentary",
+        "chapter": "Maxim 3"
+      },
+      "simple_explanation_en": "Why does Babuji put 'fix your goal' as an early maxim? Because without knowing where you're going, every practice is just motion without direction. He's saying: be clear about what you want from life. Not wealth, not fame, not even peace of mind — but something much deeper. And once you're clear, don't give up. This isn't about intensity or strain — it's about quiet, steady determination. Like water wearing through stone. Not by force, but by persistence.",
+      "simple_explanation_hi": "बाबूजी 'लक्ष्य निर्धारित करो' को प्रारंभिक सिद्धांत क्यों रखते हैं? क्योंकि बिना दिशा जाने, हर अभ्यास बिना दिशा की गति है। वे कह रहे हैं: स्पष्ट रहो कि जीवन से क्या चाहते हो। धन नहीं, प्रसिद्धि नहीं, मन की शांति भी नहीं — बल्कि कुछ बहुत गहरा। और एक बार स्पष्ट हो जाओ, तो हार मत मानो। यह तीव्रता के बारे में नहीं — शांत, स्थिर दृढ़ संकल्प के बारे में है। जैसे पानी पत्थर को घिसता है।",
+      "reflection_prompt_en": "If someone asked you right now, 'What is the single most important thing you want from life?' — what would you say? Sit with whatever answer comes, without judging it.",
+      "reflection_prompt_hi": "अगर कोई अभी पूछे, 'जीवन से सबसे महत्वपूर्ण क्या चाहते हो?' — क्या कहेंगे? जो भी उत्तर आए, बिना निर्णय के उसके साथ बैठें।",
+      "related_maxim": 3,
+      "related_concepts": ["goal_of_life", "determination", "oneness"],
+      "related_teachings": ["day-001", "day-009"],
+      "theme": "purpose",
+      "difficulty": "newcomer",
+      "week_number": 2,
+      "content_block": "maxim_3"
+    },
+    {
+      "id": "day-009",
+      "day": 9,
+      "text_en": "When we are on the path of realisation our eye must be on the goal and the goal only. We must march on it with undivided attention. If there is no goal before us, it is a fruitless pursuit.",
+      "text_hi": "जब हम साक्षात्कार के मार्ग पर हैं तो हमारी दृष्टि लक्ष्य पर और केवल लक्ष्य पर होनी चाहिए। हमें अविभाजित ध्यान से आगे बढ़ना चाहिए। यदि हमारे सामने कोई लक्ष्य नहीं है, तो यह एक निष्फल प्रयास है।",
+      "source": {
+        "book": "towards_infinity",
+        "chapter": "The Goal"
+      },
+      "simple_explanation_en": "Babuji uses a wonderful phrase: 'undivided attention.' Not forced concentration, not squeezing your mind into focus — but a natural, whole-hearted turning toward what matters most. Think of how a mother watches her sleeping child. She doesn't force her attention. Her whole being is simply there. That's the quality Babuji wants us to bring to our spiritual goal — not effort, but orientation. Like a sunflower turning toward the sun.",
+      "simple_explanation_hi": "बाबूजी एक सुंदर वाक्यांश उपयोग करते हैं: 'अविभाजित ध्यान।' जबरदस्ती एकाग्रता नहीं — बल्कि स्वाभाविक, पूर्ण हृदय से उस ओर मुड़ना जो सबसे महत्वपूर्ण है। सोचिए एक माँ अपने सोते बच्चे को कैसे देखती है। वह ध्यान को मजबूर नहीं करती। उसका पूरा अस्तित्व बस वहाँ है। यही गुण बाबूजी चाहते हैं — प्रयास नहीं, बल्कि अभिमुखता। सूरजमुखी की तरह सूर्य की ओर मुड़ना।",
+      "reflection_prompt_en": "What currently has your 'undivided attention' in life? Work? A worry? A relationship? Now ask: Is that really where I want all my attention to go?",
+      "reflection_prompt_hi": "अभी जीवन में किसके पास आपका 'अविभाजित ध्यान' है? काम? कोई चिंता? कोई रिश्ता? अब पूछें: क्या वास्तव में मैं चाहता हूँ कि मेरा सारा ध्यान वहाँ जाए?",
+      "related_maxim": 3,
+      "related_concepts": ["goal_of_life", "constant_remembrance", "attention"],
+      "related_teachings": ["day-008"],
+      "theme": "purpose",
+      "difficulty": "newcomer",
+      "week_number": 2,
+      "content_block": "maxim_3"
+    },
+
+    {
+      "id": "day-010",
+      "day": 10,
+      "text_en": "Be plain and simple to be identical with Nature.",
+      "text_hi": "सरल और सादा बनो ताकि प्रकृति के समान हो सको।",
+      "source": {
+        "book": "ten_maxims_commentary",
+        "chapter": "Maxim 4"
+      },
+      "simple_explanation_en": "This is perhaps the most Babuji of all the maxims. He lived it completely — simple clothes, simple food, no pretension. But he's not talking about poverty or denial. He's pointing at something profound: Nature, in its original state before creation, was the simplest thing there is — undifferentiated, pure, without layers. The more complex and layered we become with ego, desires, and pretenses, the further we move from that original state. Simplicity is not a sacrifice. It's a return to what's real.",
+      "simple_explanation_hi": "यह शायद सभी सिद्धांतों में सबसे अधिक बाबूजी का है। उन्होंने इसे पूरी तरह जीया — सादे कपड़े, सादा भोजन, कोई दिखावा नहीं। लेकिन वे गरीबी या त्याग की बात नहीं कर रहे। वे कुछ गहन की ओर इशारा कर रहे हैं: प्रकृति, सृष्टि से पहले अपनी मूल अवस्था में, सबसे सरल वस्तु थी। जितने अधिक जटिल हम बनते हैं — अहंकार, इच्छाओं, दिखावे से — उतने दूर उस मूल अवस्था से हो जाते हैं। सरलता त्याग नहीं, वास्तविकता की ओर वापसी है।",
+      "reflection_prompt_en": "Notice one area of your life today where you've added unnecessary complexity — in how you present yourself, in what you own, in how you communicate. What would it look like to simplify just that one thing?",
+      "reflection_prompt_hi": "आज अपने जीवन का एक क्षेत्र देखें जहाँ अनावश्यक जटिलता जोड़ी है — जिस तरह आप खुद को प्रस्तुत करते हैं, जो आपके पास है, जिस तरह संवाद करते हैं। उस एक चीज़ को सरल करना कैसा दिखेगा?",
+      "related_maxim": 4,
+      "related_concepts": ["simplicity", "nature", "original_state"],
+      "related_teachings": ["day-011"],
+      "theme": "simplicity",
+      "difficulty": "newcomer",
+      "week_number": 2,
+      "content_block": "maxim_4"
+    },
+    {
+      "id": "day-011",
+      "day": 11,
+      "text_en": "My simplicity deceives people. They think me to be an ordinary man like themselves. But when they come to close contact with me, they begin to realise what I really am.",
+      "text_hi": "मेरी सरलता लोगों को भ्रमित करती है। वे मुझे अपने जैसा एक साधारण व्यक्ति समझते हैं। लेकिन जब वे मेरे निकट संपर्क में आते हैं, तब उन्हें पता चलता है कि मैं वास्तव में क्या हूँ।",
+      "source": {
+        "book": "complete_works",
+        "chapter": "Letters & Talks"
+      },
+      "simple_explanation_en": "This is one of the most revealing things Babuji ever said about himself. He looked so ordinary that people routinely underestimated him. No robes, no stage presence, no dramatic aura. Just a retired court clerk from a small town in UP. And yet, those who spent time with him experienced something they couldn't explain. His simplicity wasn't a disguise — it was the very thing that made his spiritual state so powerful. The lesson: don't confuse external showmanship with internal depth. Often, they're inversely related.",
+      "simple_explanation_hi": "यह सबसे खुलासा करने वाली बातों में से एक है जो बाबूजी ने अपने बारे में कही। वे इतने साधारण दिखते थे कि लोग उन्हें कम आँकते थे। कोई वस्त्र नहीं, कोई मंचीय उपस्थिति नहीं। बस UP के छोटे शहर के सेवानिवृत्त कोर्ट क्लर्क। फिर भी, जिन्होंने उनके साथ समय बिताया, उन्होंने कुछ ऐसा अनुभव किया जो समझा नहीं जा सकता था। सीख: बाहरी दिखावे को आंतरिक गहराई से न जोड़ें। अक्सर, वे विपरीत अनुपात में होते हैं।",
+      "reflection_prompt_en": "Think of the wisest person you've ever met. Were they the loudest in the room, or the quietest? What does that tell you about the relationship between depth and display?",
+      "reflection_prompt_hi": "अपने जीवन के सबसे बुद्धिमान व्यक्ति के बारे में सोचें। क्या वे कमरे में सबसे ज़ोर से बोलते थे, या सबसे शांत? यह गहराई और प्रदर्शन के संबंध के बारे में क्या बताता है?",
+      "related_maxim": 4,
+      "related_concepts": ["simplicity", "humility", "guru"],
+      "related_teachings": ["day-010"],
+      "theme": "simplicity",
+      "difficulty": "newcomer",
+      "week_number": 2,
+      "content_block": "maxim_4"
+    },
+
+    {
+      "id": "day-012",
+      "day": 12,
+      "text_en": "Be truthful. Take miseries as divine blessings for your own good and be thankful.",
+      "text_hi": "सत्यवादी बनो। दुःखों को अपनी भलाई के लिए ईश्वरीय आशीर्वाद मानो और कृतज्ञ रहो।",
+      "source": {
+        "book": "ten_maxims_commentary",
+        "chapter": "Maxim 5"
+      },
+      "simple_explanation_en": "This maxim has two parts, and the second one is hard to hear. 'Be truthful' — that part we understand. But 'take miseries as divine blessings'? Babuji isn't being cruel or dismissive of suffering. He's offering a radical shift in perspective: every difficulty is burning away something that was holding you back. Like a fever that kills an infection, suffering often removes accumulated heaviness from the soul. He's not saying enjoy the pain. He's saying: trust the process, even when it hurts.",
+      "simple_explanation_hi": "इस सिद्धांत के दो भाग हैं, और दूसरा सुनना कठिन है। 'सत्यवादी बनो' — यह हम समझते हैं। लेकिन 'दुःखों को ईश्वरीय आशीर्वाद मानो'? बाबूजी क्रूर या कठोर नहीं हैं। वे दृष्टिकोण में आमूल परिवर्तन दे रहे हैं: हर कठिनाई कुछ ऐसा जला रही है जो आपको रोक रहा था। जैसे बुखार संक्रमण को मारता है, पीड़ा अक्सर आत्मा से जमी भारीपन हटाती है। वे नहीं कह रहे दर्द का आनंद लो। वे कह रहे हैं: प्रक्रिया पर भरोसा रखो, जब दर्द हो तब भी।",
+      "reflection_prompt_en": "Think of a difficult period in your past — one that's now behind you. Can you see anything it taught you or any heaviness it removed? Sometimes blessings are only visible in hindsight.",
+      "reflection_prompt_hi": "अतीत के एक कठिन समय के बारे में सोचें — जो अब बीत चुका है। क्या आप देख सकते हैं कि उसने क्या सिखाया या कौन सा भारीपन हटाया? कभी-कभी आशीर्वाद केवल पीछे मुड़कर देखने पर दिखते हैं।",
+      "related_maxim": 5,
+      "related_concepts": ["truthfulness", "suffering", "samskaras", "cleaning"],
+      "related_teachings": ["day-013"],
+      "theme": "truthfulness",
+      "difficulty": "practitioner",
+      "week_number": 2,
+      "content_block": "maxim_5"
+    },
+    {
+      "id": "day-013",
+      "day": 13,
+      "text_en": "Truthfulness really means the true state of your being, which is beyond all grossness. When the coverings are removed, what remains is the Real.",
+      "text_hi": "सत्यता का वास्तविक अर्थ है आपके अस्तित्व की सच्ची अवस्था, जो सभी स्थूलता से परे है। जब आवरण हटा दिए जाते हैं, जो शेष रहता है वह सत्य है।",
+      "source": {
+        "book": "reality_at_dawn",
+        "chapter": "Ways and Means"
+      },
+      "simple_explanation_en": "Babuji takes the concept of truth far beyond just 'don't tell lies.' Truthfulness, for him, means living in alignment with your real nature — which is pure, simple, and divine. Every layer of pretension, every mask we wear, every story we tell ourselves about who we are — these are 'coverings' over the truth. Spiritual practice is essentially an uncovering. You're not becoming something new. You're revealing what was always there, underneath everything.",
+      "simple_explanation_hi": "बाबूजी सत्य की अवधारणा को 'झूठ मत बोलो' से कहीं आगे ले जाते हैं। सत्यता उनके लिए अपनी वास्तविक प्रकृति के अनुसार जीना है — जो शुद्ध, सरल और दिव्य है। दिखावे की हर परत, हर मुखौटा, अपने बारे में हर कहानी — ये सत्य पर 'आवरण' हैं। आध्यात्मिक अभ्यास मूलतः इन आवरणों को हटाना है। आप कुछ नया नहीं बन रहे। आप वही प्रकट कर रहे हैं जो सदा से था।",
+      "reflection_prompt_en": "Where in your life are you performing a version of yourself rather than being yourself? With certain people? On social media? At work? Just notice it — no judgment needed.",
+      "reflection_prompt_hi": "जीवन में कहाँ आप खुद का एक संस्करण प्रदर्शित कर रहे हैं बजाय खुद होने के? कुछ लोगों के साथ? सोशल मीडिया पर? काम पर? बस ध्यान दें — निर्णय की आवश्यकता नहीं।",
+      "related_maxim": 5,
+      "related_concepts": ["truthfulness", "original_state", "cleaning", "samskaras"],
+      "related_teachings": ["day-012"],
+      "theme": "truthfulness",
+      "difficulty": "practitioner",
+      "week_number": 2,
+      "content_block": "maxim_5"
+    },
+
+    {
+      "id": "day-014",
+      "day": 14,
+      "text_en": "Know all people as thy brethren and treat them as such.",
+      "text_hi": "सब लोगों को अपना भाई समझो और उनसे ऐसा ही व्यवहार करो।",
+      "source": {
+        "book": "ten_maxims_commentary",
+        "chapter": "Maxim 6"
+      },
+      "simple_explanation_en": "Babuji doesn't say 'love all people' — he says 'know them as your brethren.' There's a difference. Love can be an emotion that comes and goes. But knowing someone as family changes how you behave toward them permanently. You don't always like your brother, but you don't abandon him either. This maxim asks us to extend that sense of belonging to everyone. Not as a nice ideal to think about, but as something to practice — in traffic, in disagreements, with strangers.",
+      "simple_explanation_hi": "बाबूजी नहीं कहते 'सब से प्रेम करो' — वे कहते हैं 'सब को अपना भाई जानो।' इसमें अंतर है। प्रेम भावना है जो आती-जाती है। लेकिन किसी को परिवार जानना व्यवहार को स्थायी रूप से बदलता है। अपने भाई को हमेशा पसंद नहीं करते, लेकिन छोड़ते भी नहीं। यह सिद्धांत कहता है अपनेपन को सबके लिए विस्तारित करो — सुंदर आदर्श नहीं, बल्कि अभ्यास। ट्रैफ़िक में, असहमतियों में, अजनबियों के साथ।",
+      "reflection_prompt_en": "Today, pick one person you find difficult — a colleague, a neighbor, someone in the news. Try seeing them as a brother or sister for just five minutes. Not approving of everything they do, but acknowledging you share the same source.",
+      "reflection_prompt_hi": "आज, एक कठिन व्यक्ति चुनें। बस पाँच मिनट उन्हें भाई या बहन के रूप में देखने का प्रयास करें। हर काम स्वीकार नहीं करना, बल्कि यह मानना कि आप एक ही स्रोत साझा करते हैं।",
+      "related_maxim": 6,
+      "related_concepts": ["brotherhood", "universal_love", "practical_spirituality"],
+      "related_teachings": ["day-015"],
+      "theme": "brotherhood",
+      "difficulty": "newcomer",
+      "week_number": 2,
+      "content_block": "maxim_6"
+    },
+    {
+      "id": "day-015",
+      "day": 15,
+      "text_en": "If we treat every person as our brethren, the feeling of universal love will develop. This feeling will bring the sense of equality among all, and our hatred and jealousy will come to an end.",
+      "text_hi": "यदि हम हर व्यक्ति को अपना भाई मानें, तो सार्वभौमिक प्रेम की भावना विकसित होगी। यह भावना सबमें समानता का भाव लाएगी, और हमारी घृणा और ईर्ष्या समाप्त हो जाएगी।",
+      "source": {
+        "book": "ten_maxims_commentary",
+        "chapter": "Maxim 6"
+      },
+      "simple_explanation_en": "Babuji reveals the practical consequence of brotherhood. It's not just an ethical ideal — it's a method. When you truly see someone as your family, jealousy doesn't make sense. You don't envy your brother's success — you celebrate it. Hatred dissolves because you can't genuinely hate someone you recognize as part of yourself. He's saying: this one shift in perception — from 'stranger' to 'family' — will cure most of the diseases of the heart.",
+      "simple_explanation_hi": "बाबूजी भ्रातृत्व का व्यावहारिक परिणाम बताते हैं। यह केवल नैतिक आदर्श नहीं — एक विधि है। जब सचमुच किसी को परिवार देखते हैं, ईर्ष्या का अर्थ नहीं रहता। भाई की सफलता से जलते नहीं — खुश होते हैं। घृणा मिटती है क्योंकि जिसे अपना हिस्सा मानते हो उससे सच्ची घृणा नहीं कर सकते। यह एक बदलाव — 'अजनबी' से 'परिवार' — हृदय की अधिकांश बीमारियाँ ठीक कर देगा।",
+      "reflection_prompt_en": "Is there someone whose success makes you uncomfortable? Instead of pushing that feeling away, try this: imagine them as your actual sibling. How does that change what you feel?",
+      "reflection_prompt_hi": "क्या किसी की सफलता आपको असहज करती है? उस भावना को दूर धकेलने के बजाय, कल्पना करें वे आपके वास्तविक भाई-बहन हैं। यह आपकी भावना को कैसे बदलता है?",
+      "related_maxim": 6,
+      "related_concepts": ["brotherhood", "universal_love", "jealousy", "equality"],
+      "related_teachings": ["day-014"],
+      "theme": "brotherhood",
+      "difficulty": "newcomer",
+      "week_number": 3,
+      "content_block": "maxim_6"
+    },
+
+    {
+      "id": "day-016",
+      "day": 16,
+      "text_en": "Be not revengeful for the wrongs done by others. Take them with gratitude as heavenly gifts.",
+      "text_hi": "दूसरों द्वारा किए गए अन्यायों का बदला मत लो। उन्हें ईश्वरीय उपहार मानकर कृतज्ञता से स्वीकार करो।",
+      "source": {
+        "book": "ten_maxims_commentary",
+        "chapter": "Maxim 7"
+      },
+      "simple_explanation_en": "This maxim hits hard, especially when someone has genuinely wronged you. Babuji isn't saying the wrong didn't happen or that it doesn't matter. He's saying: your reaction to it determines your spiritual condition. Revenge keeps you chained to the person who hurt you. Every moment spent plotting payback is a moment you're giving them power over your inner state. Gratitude — for the lesson, for the cleaning of old impressions — is the only way to break free.",
+      "simple_explanation_hi": "यह सिद्धांत कठिन है, खासकर जब किसी ने वास्तव में अन्याय किया हो। बाबूजी नहीं कह रहे अन्याय हुआ नहीं या मायने नहीं रखता। वे कह रहे हैं: उस पर आपकी प्रतिक्रिया आपकी आध्यात्मिक स्थिति तय करती है। बदला आपको उस व्यक्ति से बाँधे रखता है। बदले की योजना का हर क्षण उन्हें आपकी आंतरिक स्थिति पर शक्ति दे रहा है। कृतज्ञता — सीख के लिए, पुरानी छापों की सफ़ाई के लिए — मुक्ति का एकमात्र मार्ग है।",
+      "reflection_prompt_en": "Is there a grudge you're carrying — even a small one? Notice how it feels in your body when you think about it. That heaviness is the real cost of revenge. Would you be willing to set it down, just for today?",
+      "reflection_prompt_hi": "क्या कोई शिकायत है जो आप ढो रहे हैं — छोटी भी? जब उसके बारे में सोचते हैं तो शरीर में कैसा लगता है? वह भारीपन बदले की असली कीमत है। क्या आप उसे बस आज के लिए उतारने को तैयार होंगे?",
+      "related_maxim": 7,
+      "related_concepts": ["forgiveness", "cleaning", "samskaras", "surrender"],
+      "related_teachings": ["day-017", "day-012"],
+      "theme": "forgiveness",
+      "difficulty": "practitioner",
+      "week_number": 3,
+      "content_block": "maxim_7"
+    },
+    {
+      "id": "day-017",
+      "day": 17,
+      "text_en": "When we think of revenge, our thinking is spoiled and the effect is carried on to the next plane also. Our attention is diverted from the goal.",
+      "text_hi": "जब हम बदले के बारे में सोचते हैं, हमारी सोच दूषित हो जाती है और प्रभाव अगले तल पर भी पहुँचता है। हमारा ध्यान लक्ष्य से भटक जाता है।",
+      "source": {
+        "book": "ten_maxims_commentary",
+        "chapter": "Maxim 7"
+      },
+      "simple_explanation_en": "Babuji connects revenge directly to spiritual progress. He's saying: it's not just morally wrong — it's practically harmful to your inner development. Every revengeful thought creates a new impression (samskara) that has to be cleaned later. And while you're consumed by thoughts of payback, your attention has left the goal entirely. You can't face two directions at once. He's also hinting at something deeper — that the effects of our mental states carry forward beyond this life. Better to clean the slate now.",
+      "simple_explanation_hi": "बाबूजी बदले को सीधे आध्यात्मिक प्रगति से जोड़ते हैं। यह केवल नैतिक रूप से गलत नहीं — आंतरिक विकास के लिए व्यावहारिक रूप से हानिकारक है। हर बदले का विचार नया संस्कार बनाता है जिसे बाद में साफ़ करना होगा। जब बदले के विचारों में डूबे हैं, ध्यान लक्ष्य से पूरी तरह हट चुका है। दो दिशाओं की ओर एक साथ नहीं देख सकते।",
+      "reflection_prompt_en": "The next time someone cuts you off in traffic or says something unkind, notice the first flash of reaction in your mind. Before acting on it, ask: Is this worth creating a new impression that I'll have to clean later?",
+      "reflection_prompt_hi": "अगली बार जब कोई ट्रैफ़िक में आगे निकले या कुछ अप्रिय कहे, मन में पहली प्रतिक्रिया देखें। उस पर कार्य करने से पहले पूछें: क्या यह एक नया संस्कार बनाने लायक है जिसे बाद में साफ़ करना होगा?",
+      "related_maxim": 7,
+      "related_concepts": ["forgiveness", "samskaras", "cleaning", "goal_of_life"],
+      "related_teachings": ["day-016"],
+      "theme": "forgiveness",
+      "difficulty": "practitioner",
+      "week_number": 3,
+      "content_block": "maxim_7"
+    },
+
+    {
+      "id": "day-018",
+      "day": 18,
+      "text_en": "Be grateful to God for the blessings He has bestowed upon you.",
+      "text_hi": "ईश्वर के प्रति कृतज्ञ रहो उन आशीर्वादों के लिए जो उसने तुम पर प्रदान किए हैं।",
+      "source": {
+        "book": "ten_maxims_commentary",
+        "chapter": "Maxim 8"
+      },
+      "simple_explanation_en": "After talking about suffering as a blessing (Maxim 5) and wrongs as gifts (Maxim 7), Babuji now asks for gratitude for the obvious blessings too. But notice the order — he talks about gratitude for difficulties before gratitude for gifts. Perhaps because the first is harder and more transformative. This maxim is the simplest to understand and the easiest to forget. We're wired to notice what's wrong, what's missing, what hurts. Gratitude is the deliberate practice of noticing what's right.",
+      "simple_explanation_hi": "दुःख को आशीर्वाद (सिद्धांत 5) और अन्याय को उपहार (सिद्धांत 7) कहने के बाद, बाबूजी अब स्पष्ट आशीर्वादों के लिए भी कृतज्ञता माँगते हैं। क्रम ध्यान दें — कठिनाइयों के लिए कृतज्ञता पहले, उपहारों के लिए बाद में। शायद इसलिए कि पहला कठिन और अधिक परिवर्तनकारी है। यह सिद्धांत समझने में सबसे सरल और भूलने में सबसे आसान है। हम गलत, कमी, दर्द देखने के अभ्यस्त हैं। कृतज्ञता सही को देखने का जानबूझकर अभ्यास है।",
+      "reflection_prompt_en": "Right now, without thinking too hard, name three things you're grateful for. Not grand things — small ones. The chai you had this morning. A working phone. Someone who remembers your name. Let that warmth sit for a moment.",
+      "reflection_prompt_hi": "अभी, बिना ज़्यादा सोचे, तीन चीज़ें बताएँ जिनके लिए आभारी हैं। बड़ी नहीं — छोटी। सुबह की चाय। काम करता फ़ोन। कोई जो आपका नाम याद रखता है। उस गर्माहट को एक पल ठहरने दें।",
+      "related_maxim": 8,
+      "related_concepts": ["gratitude", "devotion", "surrender"],
+      "related_teachings": ["day-019", "day-012"],
+      "theme": "gratitude",
+      "difficulty": "newcomer",
+      "week_number": 3,
+      "content_block": "maxim_8"
+    },
+    {
+      "id": "day-019",
+      "day": 19,
+      "text_en": "It is only the feeling of gratefulness that can attract the flow of spiritual grace towards an abhyasi.",
+      "text_hi": "केवल कृतज्ञता की भावना ही है जो अभ्यासी की ओर आध्यात्मिक कृपा के प्रवाह को आकर्षित कर सकती है।",
+      "source": {
+        "book": "sahaj_marg_philosophy",
+        "chapter": "Grace"
+      },
+      "simple_explanation_en": "Babuji reveals something surprising: gratitude isn't just good manners — it's the mechanism that opens you to receive spiritual help. Think of it like a vessel. A cup turned upside down can't receive water, no matter how much you pour. Gratitude turns the cup right-side up. It creates an openness, a receptivity that allows grace to flow in. Entitlement, complaint, and ingratitude all close the vessel. This is why every spiritual tradition emphasizes thankfulness — it's not about being polite. It's about being open.",
+      "simple_explanation_hi": "बाबूजी कुछ आश्चर्यजनक बताते हैं: कृतज्ञता केवल शिष्टाचार नहीं — यह वह तंत्र है जो आपको आध्यात्मिक सहायता प्राप्त करने के लिए खोलता है। एक बर्तन की तरह सोचें। उलटा प्याला पानी नहीं भर सकता, चाहे कितना भी डालो। कृतज्ञता प्याले को सीधा करती है। यह एक खुलापन बनाती है जो कृपा को बहने देता है। हक़दारी, शिकायत, अकृतज्ञता — सब बर्तन को बंद करते हैं।",
+      "reflection_prompt_en": "Today, before asking for anything — from God, from life, from anyone — pause and give thanks first for what you already have. Notice if that changes the quality of your asking.",
+      "reflection_prompt_hi": "आज, कुछ भी माँगने से पहले — ईश्वर से, जीवन से, किसी से भी — पहले रुकें और जो पहले से है उसके लिए धन्यवाद दें। देखें क्या इससे माँगने की गुणवत्ता बदलती है।",
+      "related_maxim": 8,
+      "related_concepts": ["gratitude", "grace", "receptivity", "pranahuti"],
+      "related_teachings": ["day-018"],
+      "theme": "gratitude",
+      "difficulty": "practitioner",
+      "week_number": 3,
+      "content_block": "maxim_8"
+    },
+
+    {
+      "id": "day-020",
+      "day": 20,
+      "text_en": "Mould your living so as to rouse a feeling of love and piety in others.",
+      "text_hi": "अपने जीवन को ऐसे ढालो कि दूसरों में प्रेम और भक्ति का भाव जागे।",
+      "source": {
+        "book": "ten_maxims_commentary",
+        "chapter": "Maxim 9"
+      },
+      "simple_explanation_en": "This might be the most practical maxim of all. Babuji isn't saying 'preach to others' or 'convert people.' He's saying: live in such a way that people who see you feel something stir inside them. Not through words, not through argument, but through the quality of your being. When someone is genuinely kind, genuinely peaceful, genuinely loving — you feel it. And something in you responds. Your life itself becomes the teaching. This is the highest form of service.",
+      "simple_explanation_hi": "यह शायद सबसे व्यावहारिक सिद्धांत है। बाबूजी नहीं कह रहे 'दूसरों को उपदेश दो' या 'लोगों को बदलो।' वे कह रहे हैं: ऐसे जीओ कि जो तुम्हें देखे, उसके भीतर कुछ हिले। शब्दों से नहीं, तर्क से नहीं, बल्कि तुम्हारे अस्तित्व की गुणवत्ता से। जब कोई सच्चा दयालु, सच्चा शांत, सच्चा प्रेमी है — आप महसूस करते हैं। और भीतर कुछ प्रतिक्रिया करता है। आपका जीवन ही शिक्षा बन जाता है।",
+      "reflection_prompt_en": "Think of the last time someone's presence — not their words — made you want to be a better person. What was it about them? Now ask: does my presence have that effect on anyone?",
+      "reflection_prompt_hi": "पिछली बार कब किसी की उपस्थिति — शब्दों से नहीं — ने आपको बेहतर इंसान बनना चाहने पर मजबूर किया? उनमें क्या था? अब पूछें: क्या मेरी उपस्थिति का किसी पर वैसा प्रभाव है?",
+      "related_maxim": 9,
+      "related_concepts": ["conduct", "love", "piety", "practical_spirituality"],
+      "related_teachings": ["day-021", "day-014"],
+      "theme": "conduct",
+      "difficulty": "newcomer",
+      "week_number": 3,
+      "content_block": "maxim_9"
+    },
+    {
+      "id": "day-021",
+      "day": 21,
+      "text_en": "The best way of living is one which is natural and free from artificiality. It must be so simple and natural that it draws others towards it without their knowing.",
+      "text_hi": "जीने का सबसे अच्छा तरीका वह है जो स्वाभाविक हो और कृत्रिमता से मुक्त हो। यह इतना सरल और स्वाभाविक होना चाहिए कि लोग बिना जाने इसकी ओर खिंचे चले आएँ।",
+      "source": {
+        "book": "sahaj_marg_philosophy",
+        "chapter": "Living"
+      },
+      "simple_explanation_en": "This passage beautifully connects Maxim 4 (simplicity) with Maxim 9 (rousing love in others). The connection is: if you live simply and naturally, you don't need to try to inspire others. It happens on its own. People are drawn to authenticity like plants are drawn to light — unconsciously, irresistibly. The moment you try to impress or perform spirituality, you lose the very quality that attracts. Just be real. That's enough.",
+      "simple_explanation_hi": "यह अंश सिद्धांत 4 (सरलता) को सिद्धांत 9 (दूसरों में प्रेम जगाना) से सुंदरता से जोड़ता है। संबंध यह है: यदि सरल और स्वाभाविक रूप से जीओ, तो दूसरों को प्रेरित करने का प्रयास नहीं करना पड़ता। यह स्वतः होता है। लोग प्रामाणिकता की ओर आकर्षित होते हैं जैसे पौधे प्रकाश की ओर — अचेतन रूप से। जिस क्षण प्रभावित करने या आध्यात्मिकता दिखाने का प्रयास करते हैं, वही गुण खो जाता है। बस वास्तविक रहो। यही पर्याप्त है।",
+      "reflection_prompt_en": "Today, try an experiment: in every interaction, just be yourself. No performance, no extra effort to impress. Just natural. At the end of the day, notice how people responded.",
+      "reflection_prompt_hi": "आज एक प्रयोग करें: हर बातचीत में, बस खुद बनें। कोई प्रदर्शन नहीं, प्रभावित करने का अतिरिक्त प्रयास नहीं। बस स्वाभाविक। दिन के अंत में देखें लोगों ने कैसे प्रतिक्रिया दी।",
+      "related_maxim": 9,
+      "related_concepts": ["simplicity", "nature", "conduct", "authenticity"],
+      "related_teachings": ["day-020", "day-010"],
+      "theme": "conduct",
+      "difficulty": "newcomer",
+      "week_number": 3,
+      "content_block": "maxim_9"
+    },
+
+    {
+      "id": "day-022",
+      "day": 22,
+      "text_en": "At bedtime, feeling the presence of God, repent for the wrongs committed. Resolve for not allowing the repetition of the same.",
+      "text_hi": "सोते समय ईश्वर की उपस्थिति अनुभव करते हुए, किए गए अपराधों के लिए पश्चाताप करो। उनकी पुनरावृत्ति न होने देने का संकल्प करो।",
+      "source": {
+        "book": "ten_maxims_commentary",
+        "chapter": "Maxim 10"
+      },
+      "simple_explanation_en": "The day began with Maxim 1 (rise before dawn) and now ends with Maxim 10 (bedtime reflection). Babuji structured the maxims around the natural rhythm of a day. This final one is beautiful in its honesty — he assumes we will make mistakes. He doesn't say 'be perfect.' He says: at the end of each day, look at where you fell short, feel genuinely sorry, and resolve to do better. This is the spiritual equivalent of cleaning your house before sleep. You don't carry today's dust into tomorrow.",
+      "simple_explanation_hi": "दिन की शुरुआत सिद्धांत 1 (सूर्योदय से पहले उठो) से हुई और अंत सिद्धांत 10 (सोने से पहले चिंतन) से। बाबूजी ने सिद्धांतों को दिन की स्वाभाविक लय के अनुसार संरचित किया। यह अंतिम सिद्धांत ईमानदारी में सुंदर है — वे मानते हैं हम गलतियाँ करेंगे। वे नहीं कहते 'पूर्ण बनो।' वे कहते हैं: हर दिन के अंत में देखो कहाँ कमी रही, सच्चा पश्चाताप करो, बेहतर का संकल्प करो। सोने से पहले घर की सफ़ाई जैसा। आज की धूल कल में मत ले जाओ।",
+      "reflection_prompt_en": "Tonight before sleep, close your eyes for two minutes. Let the day replay gently. Where did you act from ego or react in a way you wish you hadn't? Don't punish yourself — just notice, and let it go.",
+      "reflection_prompt_hi": "आज रात सोने से पहले दो मिनट आँखें बंद करें। दिन को धीरे से दोहराने दें। कहाँ अहंकार से कार्य किया या ऐसी प्रतिक्रिया दी जो नहीं चाहते थे? खुद को दंडित न करें — बस देखें और जाने दें।",
+      "related_maxim": 10,
+      "related_concepts": ["cleaning", "repentance", "samskaras", "daily_rhythm"],
+      "related_teachings": ["day-023", "day-003"],
+      "theme": "self_reflection",
+      "difficulty": "newcomer",
+      "week_number": 4,
+      "content_block": "maxim_10"
+    },
+    {
+      "id": "day-023",
+      "day": 23,
+      "text_en": "If we go on accumulating impressions every day without removing them, the result will be that our condition will become so heavy that it will become almost impossible to free ourselves.",
+      "text_hi": "यदि हम हर दिन छापों को हटाए बिना जमा करते रहें, तो परिणाम यह होगा कि हमारी स्थिति इतनी भारी हो जाएगी कि स्वयं को मुक्त करना लगभग असंभव हो जाएगा।",
+      "source": {
+        "book": "efficacy_of_raja_yoga",
+        "chapter": "Cleaning"
+      },
+      "simple_explanation_en": "This is why Maxim 10 matters so much. Babuji uses the word 'impressions' — in Sanskrit, samskaras. Every action, every reaction, every thought leaves a trace on the soul, like dust settling on a mirror. The evening cleaning practice (repenting and resolving) is like wiping that mirror each night. If you skip it, the dust accumulates. Over days, weeks, years, it becomes a thick layer that dims your inner light. The good news: the process works in reverse too. Clean regularly, and the mirror shines brighter each day.",
+      "simple_explanation_hi": "इसीलिए सिद्धांत 10 इतना महत्वपूर्ण है। बाबूजी 'छापों' शब्द उपयोग करते हैं — संस्कृत में संस्कार। हर कर्म, प्रतिक्रिया, विचार आत्मा पर निशान छोड़ता है, जैसे दर्पण पर धूल। शाम की सफ़ाई (पश्चाताप और संकल्प) हर रात दर्पण पोंछने जैसा है। छोड़ दें तो धूल जमती है। दिनों, हफ्तों, वर्षों में मोटी परत बन जाती है। अच्छी ख़बर: प्रक्रिया उलटी भी काम करती है। नियमित सफ़ाई करें, दर्पण हर दिन चमकता है।",
+      "reflection_prompt_en": "Tonight, try the actual cleaning practice: Before sleep, imagine all the heaviness of the day — irritations, ego moments, harsh words — leaving you from behind, dissolving into the atmosphere. Feel yourself becoming lighter. It takes just five minutes.",
+      "reflection_prompt_hi": "आज रात वास्तविक सफ़ाई अभ्यास करें: सोने से पहले, कल्पना करें कि दिन की सारी भारीपन — चिड़चिड़ाहट, अहंकार, कड़वे शब्द — पीछे से निकलकर वायुमंडल में विलीन हो रही है। खुद को हल्का होते महसूस करें। बस पाँच मिनट।",
+      "related_maxim": 10,
+      "related_concepts": ["cleaning", "samskaras", "impressions", "spiritual_practice"],
+      "related_teachings": ["day-022"],
+      "theme": "self_reflection",
+      "difficulty": "practitioner",
+      "week_number": 4,
+      "content_block": "maxim_10"
+    },
+
+    {
+      "id": "day-024",
+      "day": 24,
+      "text_en": "Be not revengeful. Be a master of your self, which means control your own mind and senses.",
+      "text_hi": "बदला मत लो। अपने स्वयं के स्वामी बनो, जिसका अर्थ है अपने मन और इंद्रियों पर नियंत्रण रखो।",
+      "source": {
+        "book": "ten_maxims_commentary",
+        "chapter": "Maxim 7"
+      },
+      "simple_explanation_en": "We return to Maxim 7 to explore its second part: 'Be a master of yourself.' Babuji pairs non-revenge with self-mastery because they're deeply connected. The person who reacts impulsively — who lashes out, who seeks revenge, who says things in anger — is not the master of their own house. Their emotions are running the show. Self-mastery doesn't mean suppressing feelings. It means having enough inner space to choose your response rather than being hijacked by your reactions.",
+      "simple_explanation_hi": "हम सिद्धांत 7 के दूसरे भाग पर लौटते हैं: 'अपने स्वामी बनो।' बाबूजी बदला न लेने को आत्म-नियंत्रण से जोड़ते हैं क्योंकि वे गहराई से संबंधित हैं। जो आवेग से प्रतिक्रिया करता है — बदला लेता, क्रोध में बोलता — वह अपने घर का स्वामी नहीं। भावनाएँ नियंत्रण में हैं। आत्म-नियंत्रण भावनाओं को दबाना नहीं। इतना आंतरिक स्थान रखना है कि प्रतिक्रिया से अपहृत होने के बजाय उत्तर चुन सकें।",
+      "reflection_prompt_en": "Today, when something triggers you — criticism, a delay, someone's rudeness — pause for three breaths before responding. In those three breaths, you're choosing mastery over reaction.",
+      "reflection_prompt_hi": "आज, जब कुछ उकसाए — आलोचना, देरी, किसी की असभ्यता — उत्तर देने से पहले तीन साँसें लें। उन तीन साँसों में, आप प्रतिक्रिया पर स्वामित्व चुन रहे हैं।",
+      "related_maxim": 7,
+      "related_concepts": ["self_mastery", "forgiveness", "mind_control", "equanimity"],
+      "related_teachings": ["day-016", "day-017"],
+      "theme": "self_mastery",
+      "difficulty": "practitioner",
+      "week_number": 4,
+      "content_block": "maxim_7_extended"
+    },
+
+    {
+      "id": "day-025",
+      "day": 25,
+      "text_en": "The maxims are not mere rules to be followed mechanically. They are the natural conditions of a truly evolved being. If you begin to practice them, you will find that they are self-enforcing.",
+      "text_hi": "सिद्धांत केवल यांत्रिक रूप से पालन करने के नियम नहीं हैं। वे वास्तव में विकसित प्राणी की स्वाभाविक अवस्थाएँ हैं। यदि आप इनका अभ्यास शुरू करें, तो पाएँगे कि ये स्वयं-प्रवर्तित हैं।",
+      "source": {
+        "book": "complete_works",
+        "chapter": "Letters & Talks"
+      },
+      "simple_explanation_en": "As we near the end of our first pass through the maxims, Babuji offers something liberating: these aren't commandments imposed from outside. They describe what a spiritually developed person naturally becomes. A person who has advanced on the path doesn't force themselves to be simple — they are simple. They don't struggle to forgive — forgiveness is natural. This means you don't need to perfect all ten before you start. Start with whichever one calls to you. Practice will reveal the rest.",
+      "simple_explanation_hi": "जैसे-जैसे हम सिद्धांतों की पहली यात्रा के अंत में आते हैं, बाबूजी कुछ मुक्तिदायक कहते हैं: ये बाहर से थोपी गई आज्ञाएँ नहीं। ये वर्णन करते हैं कि आध्यात्मिक रूप से विकसित व्यक्ति स्वाभाविक रूप से क्या बन जाता है। जो मार्ग पर आगे बढ़ा है, वह सरलता नहीं थोपता — वह सरल है। क्षमा के लिए संघर्ष नहीं — क्षमा स्वाभाविक है। जो बुलाए उससे शुरू करें। अभ्यास बाकी प्रकट करेगा।",
+      "reflection_prompt_en": "Of all ten maxims, which one feels most natural to you already? And which one feels hardest? The one that's hardest might be exactly where your growth is waiting.",
+      "reflection_prompt_hi": "सभी दस सिद्धांतों में से कौन सा आपको पहले से सबसे स्वाभाविक लगता है? और कौन सा सबसे कठिन? सबसे कठिन वाला शायद वही है जहाँ आपका विकास प्रतीक्षा कर रहा है।",
+      "related_maxim": null,
+      "related_concepts": ["ten_maxims", "natural_development", "spiritual_evolution"],
+      "related_teachings": ["day-003", "day-022"],
+      "theme": "overview",
+      "difficulty": "practitioner",
+      "week_number": 4,
+      "content_block": "maxims_synthesis"
+    },
+    {
+      "id": "day-026",
+      "day": 26,
+      "text_en": "I have laid down ten maxims or principles for the daily observance of the abhyasis. If they be followed to the very letter, I am sure they can bring about the desired result in a very short time.",
+      "text_hi": "मैंने अभ्यासियों के दैनिक पालन के लिए दस सिद्धांत या नियम बनाए हैं। यदि इनका अक्षरशः पालन किया जाए, तो मुझे विश्वास है कि ये बहुत कम समय में वांछित परिणाम ला सकते हैं।",
+      "source": {
+        "book": "ten_maxims_commentary",
+        "chapter": "Introduction"
+      },
+      "simple_explanation_en": "Babuji makes an extraordinary claim: follow these ten simple guidelines faithfully, and the highest spiritual state becomes accessible quickly. Not in lifetimes, not after decades of austerity — in a 'very short time.' This is the promise of Sahaj Marg. The system is designed to be simple enough for householders — people with jobs, families, and busy lives — to reach the same heights that ancient rishis reached through years of forest meditation. The secret isn't complexity. It's consistency.",
+      "simple_explanation_hi": "बाबूजी एक असाधारण दावा करते हैं: इन दस सरल दिशानिर्देशों का ईमानदारी से पालन करें, और सर्वोच्च आध्यात्मिक अवस्था शीघ्र सुलभ हो जाती है। जन्मों में नहीं, दशकों की तपस्या के बाद नहीं — 'बहुत कम समय' में। यही सहज मार्ग का वादा है। यह प्रणाली गृहस्थों के लिए बनी है — नौकरी, परिवार, व्यस्त जीवन वालों के लिए — वही ऊँचाइयाँ पाने के लिए जो प्राचीन ऋषियों ने वनों में पाईं। रहस्य जटिलता नहीं — निरंतरता है।",
+      "reflection_prompt_en": "You've now read about all ten maxims. Instead of trying to practice all of them at once, pick just one for this week. Carry it with you like a quiet companion. Which one will you choose?",
+      "reflection_prompt_hi": "आपने अब सभी दस सिद्धांतों के बारे में पढ़ लिया है। सबको एक साथ अभ्यास करने के बजाय, इस सप्ताह के लिए बस एक चुनें। उसे शांत साथी की तरह अपने साथ रखें। आप कौन सा चुनेंगे?",
+      "related_maxim": null,
+      "related_concepts": ["ten_maxims", "sahaj_marg", "householder_spirituality"],
+      "related_teachings": ["day-025"],
+      "theme": "overview",
+      "difficulty": "newcomer",
+      "week_number": 4,
+      "content_block": "maxims_synthesis"
+    },
+    {
+      "id": "day-027",
+      "day": 27,
+      "text_en": "The structure of a man's life is based upon the morning and evening routine he follows. Those who are particular about both these tend to progress in spirituality in a much better way.",
+      "text_hi": "मनुष्य के जीवन की संरचना उसकी सुबह और शाम की दिनचर्या पर आधारित है। जो दोनों के बारे में विशेष ध्यान रखते हैं, वे आध्यात्मिकता में बेहतर प्रगति करते हैं।",
+      "source": {
+        "book": "complete_works",
+        "chapter": "Letters & Talks"
+      },
+      "simple_explanation_en": "As we close this month-long journey through the maxims, Babuji brings it back to daily rhythm. The ten maxims aren't meant to be studied once and filed away. They frame each day — from the first waking moment (Maxim 1) to the last thought before sleep (Maxim 10). Morning practice opens the channel. Evening cleaning clears the debris. Between these two bookends, the other eight maxims guide how you navigate the messy, beautiful, ordinary hours of being human. It's a complete system wrapped in simplicity.",
+      "simple_explanation_hi": "जैसे हम सिद्धांतों की इस मासिक यात्रा को समाप्त करते हैं, बाबूजी दैनिक लय पर लौटते हैं। दस सिद्धांत एक बार पढ़कर रखने के लिए नहीं। वे हर दिन को आकार देते हैं — जागने के पहले क्षण (सिद्धांत 1) से सोने से पहले अंतिम विचार (सिद्धांत 10) तक। सुबह का अभ्यास मार्ग खोलता है। शाम की सफ़ाई मलबा हटाती है। इन दो सिरों के बीच, अन्य आठ सिद्धांत मार्गदर्शन करते हैं। सरलता में लिपटी एक पूर्ण प्रणाली।",
+      "reflection_prompt_en": "How does your morning begin right now? How does your evening end? If you could change just one small thing about each to make them more intentional, what would it be?",
+      "reflection_prompt_hi": "अभी आपकी सुबह कैसे शुरू होती है? शाम कैसे समाप्त? यदि प्रत्येक में बस एक छोटी चीज़ बदलकर अधिक सचेत बना सकें, तो क्या बदलेंगे?",
+      "related_maxim": null,
+      "related_concepts": ["daily_rhythm", "morning_practice", "cleaning", "ten_maxims"],
+      "related_teachings": ["day-003", "day-022"],
+      "theme": "daily_practice",
+      "difficulty": "newcomer",
+      "week_number": 4,
+      "content_block": "maxims_synthesis"
+    },
+    {
+      "id": "day-028",
+      "day": 28,
+      "text_en": "It is a very simple thing, meditation. But people have made it complicated. All that you have to do is just think that the divine light is present in your heart and meditate on it. If you do it regularly, a time will come when you feel the presence constantly.",
+      "text_hi": "ध्यान बहुत सरल बात है। लेकिन लोगों ने इसे जटिल बना दिया है। बस इतना करना है कि सोचो हृदय में दिव्य प्रकाश है और उस पर ध्यान करो। यदि नियमित रूप से करें, तो वह समय आएगा जब उपस्थिति निरंतर अनुभव होगी।",
+      "source": {
+        "book": "complete_works",
+        "chapter": "Letters & Talks"
+      },
+      "simple_explanation_en": "We end this month with Babuji at his most characteristic — cutting through all complexity to the simplest possible instruction. After a month of exploring the maxims, the path forward is beautifully clear: sit, think of the divine light in your heart, and meditate. That's it. No techniques, no visualizations, no mantras. Just a gentle supposition — 'I think there is a light in my heart' — and the willingness to sit with it regularly. This is the practice that ties all ten maxims together. Tomorrow begins a new chapter of exploration. But the foundation is now set.",
+      "simple_explanation_hi": "हम इस महीने का अंत बाबूजी की सबसे विशिष्ट शैली से करते हैं — सभी जटिलता को काटकर सबसे सरल निर्देश तक पहुँचना। सिद्धांतों के एक महीने की खोज के बाद, आगे का मार्ग सुंदर रूप से स्पष्ट है: बैठो, हृदय में दिव्य प्रकाश का विचार करो, और ध्यान करो। बस। कोई तकनीक नहीं, कोई कल्पना नहीं, कोई मंत्र नहीं। बस एक कोमल अनुमान — 'मुझे लगता है मेरे हृदय में प्रकाश है' — और नियमित रूप से बैठने की इच्छा। कल एक नया अध्याय शुरू होगा। लेकिन नींव अब रख दी गई है।",
+      "reflection_prompt_en": "Try it now. Just one minute. Close your eyes, imagine a gentle light in your heart — not blazing, just a soft glow, like a candle. Don't force anything. Just sit with it. That's meditation in Sahaj Marg.",
+      "reflection_prompt_hi": "अभी प्रयास करें। बस एक मिनट। आँखें बंद करें, हृदय में एक कोमल प्रकाश की कल्पना करें — तेज़ नहीं, बस एक मद्धम चमक, मोमबत्ती जैसी। कुछ जबरदस्ती न करें। बस उसके साथ बैठें। सहज मार्ग में यही ध्यान है।",
+      "related_maxim": null,
+      "related_concepts": ["meditation", "heart", "divine_light", "constant_remembrance", "simplicity"],
+      "related_teachings": ["day-001", "day-002"],
+      "theme": "meditation",
+      "difficulty": "newcomer",
+      "week_number": 4,
+      "content_block": "maxims_synthesis"
+    }
+  ]
+}

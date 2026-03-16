@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "version": "1.0",
+    "description": "Metadata for Babuji's books referenced throughout the app"
+  },
+  "books": [
+    {
+      "id": "reality_at_dawn",
+      "title_en": "Reality at Dawn",
+      "title_hi": "उषा काल का यथार्थ",
+      "author": "Shri Ram Chandra of Shahjahanpur (Babuji Maharaj)",
+      "year": 1956,
+      "description_en": "Babuji's seminal work on spirituality, the goal of human life, and the Sahaj Marg system. Covers the nature of God, the journey of the soul, the role of the guru, and the practical methods of spiritual training.",
+      "description_hi": "आध्यात्मिकता, मानव जीवन के लक्ष्य और सहज मार्ग प्रणाली पर बाबूजी का मौलिक ग्रंथ।",
+      "chapters": ["The Goal of Life", "Ways and Means", "The Guru", "Spiritual Training", "Faith", "Constant Remembrance", "Self-Surrender", "Realisation", "My Vision"],
+      "icon": "book"
+    },
+    {
+      "id": "ten_maxims_commentary",
+      "title_en": "Commentary on Ten Maxims",
+      "title_hi": "दस सिद्धांतों पर टीका",
+      "author": "Shri Ram Chandra of Shahjahanpur (Babuji Maharaj)",
+      "year": 1970,
+      "description_en": "Babuji's detailed commentary on the ten daily living guidelines he prescribed for practitioners. Each maxim is explained with practical insight and spiritual depth.",
+      "description_hi": "अभ्यासियों के लिए निर्धारित दस दैनिक जीवन सिद्धांतों पर बाबूजी की विस्तृत टीका।",
+      "chapters": ["Maxim 1", "Maxim 2", "Maxim 3", "Maxim 4", "Maxim 5", "Maxim 6", "Maxim 7", "Maxim 8", "Maxim 9", "Maxim 10"],
+      "icon": "scroll"
+    },
+    {
+      "id": "efficacy_of_raja_yoga",
+      "title_en": "Efficacy of Raja Yoga in the Light of Sahaj Marg",
+      "title_hi": "सहज मार्ग के प्रकाश में राज योग की प्रभावकारिता",
+      "author": "Shri Ram Chandra of Shahjahanpur (Babuji Maharaj)",
+      "year": 1968,
+      "description_en": "A practical guide to the methods and effects of Raja Yoga as practiced in Sahaj Marg. Covers meditation, cleaning, the role of transmission, and the stages of spiritual development.",
+      "description_hi": "सहज मार्ग में अभ्यास किए जाने वाले राज योग की विधियों और प्रभावों का व्यावहारिक मार्गदर्शन।",
+      "chapters": ["Meditation", "Spiritual Training", "Cleaning", "Transmission", "Points and Regions"],
+      "icon": "compass"
+    },
+    {
+      "id": "towards_infinity",
+      "title_en": "Towards Infinity",
+      "title_hi": "अनंत की ओर",
+      "author": "Shri Ram Chandra of Shahjahanpur (Babuji Maharaj)",
+      "year": 1981,
+      "description_en": "Babuji's description of the spiritual journey — the stages, experiences, and landmarks a seeker encounters on the path to the ultimate goal. Includes detailed mapping of spiritual regions.",
+      "description_hi": "आध्यात्मिक यात्रा का बाबूजी का वर्णन — वे चरण, अनुभव और मील के पत्थर जो साधक अंतिम लक्ष्य तक मार्ग में पाता है।",
+      "chapters": ["The Goal", "The Journey", "Heart Region", "Mind Region", "Central Region"],
+      "icon": "path"
+    },
+    {
+      "id": "sahaj_marg_philosophy",
+      "title_en": "Sahaj Marg Philosophy",
+      "title_hi": "सहज मार्ग दर्शन",
+      "author": "Shri Ram Chandra of Shahjahanpur (Babuji Maharaj)",
+      "year": 1978,
+      "description_en": "Philosophical foundations of the Sahaj Marg system. Explores concepts like nature, God, grace, devotion, and the relationship between the seeker and the divine.",
+      "description_hi": "सहज मार्ग प्रणाली की दार्शनिक नींव। प्रकृति, ईश्वर, कृपा, भक्ति और साधक-परमात्मा संबंध जैसी अवधारणाओं की खोज।",
+      "chapters": ["Introduction", "Nature", "God", "Grace", "Living"],
+      "icon": "lotus"
+    },
+    {
+      "id": "complete_works",
+      "title_en": "Complete Works (Letters & Talks)",
+      "title_hi": "संपूर्ण रचनाएँ (पत्र और वार्ताएँ)",
+      "author": "Shri Ram Chandra of Shahjahanpur (Babuji Maharaj)",
+      "year": 1990,
+      "description_en": "Collections of Babuji's personal letters, talks, and informal teachings. These reveal his warmth, humor, and the intimate side of his guidance — often the most touching and accessible of his writings.",
+      "description_hi": "बाबूजी के व्यक्तिगत पत्रों, वार्ताओं और अनौपचारिक शिक्षाओं का संग्रह। उनकी गर्मजोशी, हास्य और मार्गदर्शन का अंतरंग पक्ष प्रकट करते हैं।",
+      "chapters": ["Letters & Talks"],
+      "icon": "letter"
+    }
+  ]
+}
