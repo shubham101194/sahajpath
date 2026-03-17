@@ -709,3 +709,129 @@ a {
   from { opacity: 0; transform: translateY(8px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
+/* ─── Welcome Screen ──────────────────────────── */
+
+.welcome-screen {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--space-xxxl) var(--space-xl);
+  cursor: pointer;
+  animation: welcomeFadeIn 1s ease-out;
+  position: relative;
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+@keyframes welcomeFadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.welcome-lang-btn {
+  position: absolute;
+  top: var(--space-xl);
+  right: var(--space-xl);
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--saffron);
+  padding: 6px 14px;
+  border-radius: var(--pill-radius);
+  border: 0.5px solid var(--border);
+  background: var(--warm-white);
+  z-index: 10;
+  transition: background-color 0.15s;
+}
+
+.welcome-lang-btn:active {
+  background: var(--sand);
+}
+
+.welcome-photo-container {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 3px solid var(--border);
+  margin-top: var(--space-xl);
+  animation: photoFadeIn 1.2s ease-out 0.3s both;
+}
+
+@keyframes photoFadeIn {
+  from { opacity: 0; transform: scale(0.9); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.welcome-photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 15%;
+}
+
+.welcome-name {
+  font-family: var(--font-serif);
+  font-size: 22px;
+  color: var(--deep-brown);
+  margin-top: var(--space-xl);
+  animation: welcomeFadeIn 1s ease-out 0.5s both;
+}
+
+.welcome-subtitle {
+  font-size: 13px;
+  color: var(--muted-brown);
+  margin-top: var(--space-xs);
+  animation: welcomeFadeIn 1s ease-out 0.6s both;
+}
+
+.welcome-quote {
+  font-family: var(--font-serif);
+  font-size: 16px;
+  line-height: 1.8;
+  color: var(--warm-brown);
+  text-align: center;
+  margin-top: var(--space-xxl);
+  white-space: pre-line;
+  animation: welcomeFadeIn 1s ease-out 0.8s both;
+}
+
+.welcome-quote-hi {
+  font-family: var(--font-serif-hi);
+  font-size: 15px;
+  line-height: 1.9;
+}
+
+.welcome-footer {
+  margin-top: var(--space-xxl);
+  text-align: center;
+  animation: welcomeFadeIn 1s ease-out 1.2s both;
+}
+
+.welcome-app-name {
+  font-family: var(--font-serif);
+  font-size: 20px;
+  color: var(--deep-brown);
+  letter-spacing: 0.5px;
+}
+
+.welcome-app-name-hi {
+  font-family: var(--font-serif-hi);
+  font-size: 13px;
+  color: var(--muted-brown);
+  margin-top: 2px;
+}
+
+.welcome-tap {
+  font-size: 12px;
+  color: var(--saffron);
+  margin-top: var(--space-lg);
+  letter-spacing: 0.5px;
+  animation: gentlePulse 2.5s ease-in-out 2s infinite;
+}
+
+@keyframes gentlePulse {
+  0%, 100% { opacity: 0.6; }
+  50% { opacity: 1; }
+}
