@@ -15,7 +15,8 @@ export const WelcomeScreen: React.FC = () => {
     <div className="welcome-screen" onClick={() => navigate('/today')}>
       {/* Language switch */}
       <button
-        className="welcome-lang-btn"
+        className="lang-switch-btn"
+        style={{ position: 'absolute', top: 'var(--space-xl)', right: 'var(--space-xl)', zIndex: 10 }}
         onClick={(e) => {
           e.stopPropagation();
           setLanguage(language === 'en' ? 'hi' : 'en');
@@ -27,7 +28,7 @@ export const WelcomeScreen: React.FC = () => {
       {/* Photo */}
       <div className="welcome-photo-container">
         <img
-          src="./babuji.png"
+          src="./babuji.jpg"
           alt="Babuji Maharaj"
           className="welcome-photo"
         />
