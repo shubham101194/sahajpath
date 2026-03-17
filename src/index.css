@@ -732,25 +732,6 @@ a {
   to { opacity: 1; }
 }
 
-.welcome-lang-btn {
-  position: absolute;
-  top: var(--space-xl);
-  right: var(--space-xl);
-  font-size: 13px;
-  font-weight: 500;
-  color: var(--saffron);
-  padding: 6px 14px;
-  border-radius: var(--pill-radius);
-  border: 0.5px solid var(--border);
-  background: var(--warm-white);
-  z-index: 10;
-  transition: background-color 0.15s;
-}
-
-.welcome-lang-btn:active {
-  background: var(--sand);
-}
-
 .welcome-photo-container {
   width: 180px;
   height: 180px;
