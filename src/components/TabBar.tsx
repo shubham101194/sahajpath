@@ -5,7 +5,7 @@ import { useAppStore } from '../store/useAppStore';
 import { t } from '../i18n';
 
 const tabs = [
-  { path: '/', icon: IconSun, labelKey: 'tabToday' as const },
+  { path: '/today', icon: IconSun, labelKey: 'tabToday' as const },
   { path: '/maxims', icon: IconGrid, labelKey: 'tabMaxims' as const },
   { path: '/paths', icon: IconBookmark, labelKey: 'tabPaths' as const },
   { path: '/explore', icon: IconSearch, labelKey: 'tabExplore' as const },
@@ -17,7 +17,6 @@ export const TabBar: React.FC = () => {
   const language = useAppStore((s) => s.language);
 
   const isActive = (path: string) => {
-    if (path === '/') return location.pathname === '/' || location.pathname === '';
     return location.pathname.startsWith(path);
   };
 
