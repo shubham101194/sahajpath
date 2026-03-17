@@ -213,6 +213,8 @@ a {
   background: var(--warm-white);
   transition: background-color 0.15s;
   white-space: nowrap;
+  min-width: 72px;
+  text-align: center;
 }
 
 .lang-switch-btn:active {
