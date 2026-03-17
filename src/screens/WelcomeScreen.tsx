@@ -28,7 +28,7 @@ export const WelcomeScreen: React.FC = () => {
       {/* Photo */}
       <div className="welcome-photo-container">
         <img
-          src="./babuji.jpg"
+          src="./babuji.png"
           alt="Babuji Maharaj"
           className="welcome-photo"
         />
